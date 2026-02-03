@@ -19,7 +19,7 @@
   <tr>
     <td style="text-align: center; white-space: nowrap;">Week 2</td>
     <td style="text-align: center;">JavaScript Fundamentals</td>
-    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQAGYQWzVfZQQ4xCEPaGCB9eAeGqZCQqjfZtAlCT4Sru51U?e=jZabJk">Download PPT<td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQAgzOTEcSZ8TKNsejx0eG5FARRUZpwo_kqqlxtVhnW3aFU?e=0PII6l">Download PPT<td>
     <td style="text-align: center;">
       </td>
     </tr> 
