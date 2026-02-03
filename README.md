@@ -11,7 +11,7 @@
    <tr>
     <td style="text-align: center; white-space: nowrap;">Week 1</td>
     <td style="text-align: center;">Full Stack Introduction, HTML5,Semantic Tags</td>
-    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQAtFFcAmVtRRJnwIJf4HrqSAZoaTawtrb0HZubhLgQOTX8?e=5C9FeE">Download PPT1</a><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQAGYQWzVfZQQ4xCEPaGCB9eAeGqZCQqjfZtAlCT4Sru51U?e=8JwO15">PPT 2</a><td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQAtFFcAmVtRRJnwIJf4HrqSAZoaTawtrb0HZubhLgQOTX8?e=5C9FeE">Download PPT1</a><br><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQAGYQWzVfZQQ4xCEPaGCB9eAeGqZCQqjfZtAlCT4Sru51U?e=8JwO15">Download PPT 2</a><td>
     <td style="text-align: center;">
       </td>
     </tr> 
