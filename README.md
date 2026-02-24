@@ -32,4 +32,12 @@
       </td>
     </tr> 
      </tr>
+      <tr>
+    <td style="text-align: center; white-space: nowrap;">Week 3</td>
+    <td style="text-align: center;">Git & Github tutorial</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQCmmQMreoVWSZsMldIpPnDCATHZtJbCWPNagfQH4A2e7q4?e=lJnpzv">Download PPT<td>
+    <td style="text-align: center;">
+      </td>
+    </tr> 
+     </tr>
     </table>
