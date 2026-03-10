@@ -46,18 +46,6 @@
     <td style="text-align: center;">
       </td>
     </tr> 
-          <tr>
-    <td style="text-align: center; white-space: nowrap;">Week 4</td>
-    <td style="text-align: center;">Why Use Libray/Frmaeworks,React Introduction</td>
-    <td style="text-align: center;"><a href="    <tr>
-    <td style="text-align: center; white-space: nowrap;">Week 4</td>
-    <td style="text-align: center;">Advanced Js-Scope,Closure,Currying,this keyword,Arrow functions</td>
-    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQDALX4dodjsSaOi9RoygAokAYkG-MraBdvMGL-Q7mRCBF4?e=MgjiEW">Download PPT<td>
-    <td style="text-align: center;">
-      </td>
-    </tr> ">Download PPT<td>
-    <td style="text-align: center;">
-      </td>
-    </tr> 
+        
      </tr>
     </table>
