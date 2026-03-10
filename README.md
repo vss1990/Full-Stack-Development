@@ -53,6 +53,19 @@
     <td style="text-align: center;">
       </td>
     </tr> 
+     <tr>
+    <td style="text-align: center; white-space: nowrap;">Week 6</td>
+    <td style="text-align: center;">React-Vite,Component</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQCm4YA7Zul1QaqyDjwLhldDAfe-a66eXbtS0Me0jZEAg7s?e=0K8Mh3">Download PPT<td>
+    <td style="text-align: center;">
+      </td>
+    </tr> 
+    <td style="text-align: center; white-space: nowrap;">Week 7</td>
+    <td style="text-align: center;">React - Reusability and Props</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQD5QRtfitfcSquVX_PFh_nOAezSFbUT9e5nCoNrv1N-qSo?e=kw20ld">Download PPT<td>
+    <td style="text-align: center;">
+      </td>
+    </tr> 
         
      </tr>
     </table>
