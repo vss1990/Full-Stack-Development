@@ -74,6 +74,20 @@
     <td style="text-align: center;">
       </td>
     </tr> 
-        
+      <tr>
+    <td style="text-align: center; white-space: nowrap;">Week 9</td>
+    <td style="text-align: center;">ExpressJs</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQCerkj2PbgfQrQl4MS_WP8bATTA7-j-EyATs4IOqhM7Qm0?e=HllX82">Download PPT<td>
+    <td style="text-align: center;">
+      </td>
+    </tr>   
+     </tr>
+          <tr>
+    <td style="text-align: center; white-space: nowrap;">Week 10</td>
+    <td style="text-align: center;">Database-mongoDB,CRUD operations</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQAS-lzG9kghS7QEW584BiQOAbjPjysg8ZuJVWzMSLMSkww?e=xKEayL">Download PPT<td>
+    <td style="text-align: center;">
+      </td>
+    </tr>   
      </tr>
     </table>
